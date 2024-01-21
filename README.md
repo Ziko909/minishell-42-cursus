@@ -10,6 +10,7 @@
 - [Helpful Resources](#helpful-resources)
 - [Related Projects](#related-projects)
 - [Contributors](#contributors)
+- [Contact Information](#contact-information)
 
 ## Description
 
